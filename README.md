@@ -1,5 +1,9 @@
 # OTP-Advertisement-SpringBoot-Rest-Services
 
+![boot](https://github.com/Harnyx-Dope/OTP-Advertisement-SpringBoot-Rest-Services/assets/85693353/57a8a442-d10a-4ba0-a441-29a2e94490de)
+
+![postman-logo](https://github.com/Harnyx-Dope/OTP-Advertisement-SpringBoot-Rest-Services/assets/85693353/184a08be-61d3-4da0-a59b-e067656a1a4a)
+
 Welcome to the OTP Advertisement SpringBoot Rest Services repository! This project allows you to send emails for various purposes, such as One-Time Passwords (OTPs) and promotional content, using Spring Boot and RESTful services.
  
 
@@ -15,9 +19,18 @@ Welcome to the OTP Advertisement SpringBoot Rest Services repository! This proje
 ## Prerequisites
 
 - Java 8 or higher
-- [Just JRE is Also Fine For Jar Accessibility
+- [Just JRE is Also Fine For Jar Accessibility]
 
 ### Installation For JAR
 
 1. Just Download the JAR File and then Access it using the Commands Mentioned:-
    <h2>java -jar application-name.jar</h2> 
+2. API Call :-
+    <h3>Post Req:- http://localhost:8080/send-email</h3>
+    <h3>Json Data Format:-<br> 
+ {
+  "to": "your-email@gmail.com",
+  "subject": "Hello, Harsh Vardhan Gupta!",
+  "text": "hello welcome to OTP Service Provider"
+}
+</h3>
