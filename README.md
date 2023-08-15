@@ -28,9 +28,9 @@ Welcome to the OTP Advertisement SpringBoot Rest Services repository! This proje
 2. API Call :-
     <h3>Post Req:- http://localhost:8080/send-email</h3>
     <h3>Json Data Format:-<br> 
- {
-  "to": "your-email@gmail.com",
-  "subject": "Hello, Harsh Vardhan Gupta!",
-  "text": "hello welcome to OTP Service Provider"
-}
+ { <br>
+    "to": "your-email@gmail.com",<br>
+  "subject": "Hello, Harsh Vardhan Gupta!",<br>
+  "text": "hello welcome to OTP Service Provider"<br>
+}<br>
 </h3>
