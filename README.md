@@ -2,7 +2,7 @@
 
 ![boot](https://github.com/Harnyx-Dope/OTP-Advertisement-SpringBoot-Rest-Services/assets/85693353/57a8a442-d10a-4ba0-a441-29a2e94490de)
 
-<h3>Welcome to the OTP Advertisement SpringBoot Rest Services repository! This project allows you to send emails for various purposes, such as One-Time Passwords (OTPs) and promotional content, using Spring Boot and RESTful services.</h3>
+Welcome to the OTP Advertisement SpringBoot Rest Services repository! This project allows you to send emails for various purposes, such as One-Time Passwords (OTPs) and promotional content, using Spring Boot and RESTful services.
  
 
 ## Features
