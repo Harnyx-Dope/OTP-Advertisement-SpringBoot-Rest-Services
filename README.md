@@ -5,10 +5,9 @@ Welcome to the OTP Advertisement SpringBoot Rest Services repository! This proje
 
 ## Features
 
-<h4>- Send customized emails, including OTPs and promotional messages.
-- Flexible RESTful API endpoints for easy integration into applications.
-- Easily configure email settings to suit your needs.
-- [Add any other features specific to your project]</h4>
+<h4>- Send customized emails, including OTPs and promotional messages.<br>
+- Flexible RESTful API endpoints for easy integration into applications.<br>
+- Easily configure email settings to suit your needs.<br></h4>
 
 ## Getting Started
  <h3>- You can Just Setup your Basic Spring Boot project Using Spring Intializr and then get Started!!</h3>
